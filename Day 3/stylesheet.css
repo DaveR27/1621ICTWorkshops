@@ -1,0 +1,23 @@
+table{
+    border: greenyellow;
+    border: 2px solid;
+    background:blue;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td{
+    text-align: center;
+    border: 2px solid black
+}
+
+img{
+    display: block;
+    width: auto;
+    margin: auto;
+}
+
+body{
+    background: yellowgreen;
+}
+
