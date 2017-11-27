@@ -1,0 +1,29 @@
+#head{
+    height: 150px;
+}
+
+#nav{
+    min-height: 700px;
+    min-width: 600px;
+}
+
+body{
+    margin: 0;
+    padding: 0 0 75px;
+}
+
+header{
+    border-bottom: thin solid;
+    background: yellowgreen;
+    padding: 10px;
+}
+
+footer{
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    height: 75px;
+    background: deepskyblue;
+    border-top: thin solid;
+    width: 100%
+}

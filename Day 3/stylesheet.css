@@ -11,13 +11,16 @@ td{
     border: 2px solid black
 }
 
-img{
-    display: block;
-    width: auto;
-    margin: auto;
-}
 
 body{
     background: yellowgreen;
 }
 
+.aboutUs{
+    float: left;
+}
+.reviews{
+    display: block;
+    float: right;
+    width: 70em;
+}
